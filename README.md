@@ -1,0 +1,2 @@
+# ecommerce-data-cleaning-and-analysis
+Este projeto realiza o pré-processamento e a análise exploratória de dados da plataforma Olist. Foram aplicadas técnicas de limpeza, conversão de tipos, análise estatística, manipulação de variáveis categóricas, normalização e criação de novos atributos, seguindo as etapas do ciclo de vida da Ciência de Dados. O resultado é um dataset consolidado, limpo e pronto para análises avançadas ou modelagem futura.
